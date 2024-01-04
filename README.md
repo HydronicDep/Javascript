@@ -1,2 +1,2 @@
 # Javascript
- Aprendendo Javascript com o Curso em Video
+ Aprendendo Javascript com o Gustavo Guanabara do Curso em Video.
